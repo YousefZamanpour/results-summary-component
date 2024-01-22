@@ -124,6 +124,7 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 padding: 1rem;
 max-width: 660px;
+box-shadow: 0 16px 16px -8px hsl(234, 85%, 45%,.4);
 }
 .left-card{
   background:linear-gradient(var(--clr-slate-blue), var(--clr-royal-blue));
